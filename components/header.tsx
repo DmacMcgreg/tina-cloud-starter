@@ -72,7 +72,7 @@ export const Header = ({ data }) => {
                   }}
                   className="inline-block h-auto w-10 mr-1"
                 />{" "}
-                David McGregor
+                {data.headerText}
               </a>
             </Link>
           </h4>
