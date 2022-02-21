@@ -25,6 +25,14 @@ blocks:
     _template: hero
   - items:
       - icon:
+          color: ''
+          style: float
+          name: beer
+        title: Here's Another Feature
+        text: >-
+          This is where you might talk about the feature, if this wasn't just
+          filler text.
+      - icon:
           color: red
           style: float
           name: code
@@ -48,5 +56,9 @@ blocks:
           color, font, or icon set.
     color: tint
     _template: features
+  - body: |
+      Some great content goes a long way!
+    color: primary
+    _template: content
 ---
 
