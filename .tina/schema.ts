@@ -501,6 +501,11 @@ export default defineSchema({
             iconSchema,
             {
               type: "string",
+              label: "Text",
+              name: "headerText"
+            },
+            {
+              type: "string",
               label: "Color",
               name: "color",
               options: [
