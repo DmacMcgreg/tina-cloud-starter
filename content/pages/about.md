@@ -2,8 +2,11 @@
 blocks:
   - tagline: Hero
     headline: Great big text
-    text: |
+    text: >
       Okay another
+
+
+      ![](http://res.cloudinary.com/dkwhranan/image/upload/v1645455678/sample.jpg)
     actions:
       - label: Some Buton
         type: button
