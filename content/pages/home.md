@@ -1,5 +1,20 @@
 ---
 blocks:
+  - tagline: Here's some text above the other text
+    headline: This Big Text is Totally Awesome
+    text: >
+      > Super Quote
+
+      >
+
+
+      OkayGReat
+
+
+      ![Alt](http://res.cloudinary.com/dkwhranan/image/upload/v1645455678/sample.jpg
+      "Caption")
+    color: primary
+    _template: hero
   - tagline: ''
     headline: Welcome to the Tina Starter
     text: >
